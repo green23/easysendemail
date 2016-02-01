@@ -1,7 +1,7 @@
 # Description
 A simple package to send email
 # Usage
-pip install sendemail
+pip install easysendemail
 
 send = SendEmail((sender=sender, receiver=recevier, smtp=smtp, port=port, password=password, subject=subject, filepath=filepth, filename=filename, content=content))
 
