@@ -64,4 +64,4 @@ target/
 
 # pyenv
 .python-version
-
+.idea/
