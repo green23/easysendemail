@@ -1,5 +1,5 @@
 # Description
-A simple package to send email
+A package to make it easier to send email
 # Usage
 pip install easysendemail
 
